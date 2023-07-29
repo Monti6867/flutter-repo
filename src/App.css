@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.slick-slider {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
